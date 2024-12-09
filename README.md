@@ -35,11 +35,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 Step 1: Create a resource group in Azure
-<p>
+
 ![image](https://github.com/user-attachments/assets/1f53cbee-c9d3-40d9-8229-d3f2a167dfd0)
 
-</p>
-<p>
+
+
 Step 2: Create a Windows 10 Pro Virtual Machine (VM)
 
 - Select the Resource group that was created
