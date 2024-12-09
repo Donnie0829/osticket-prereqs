@@ -22,19 +22,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install/ Enable Internet and Information Services (IIS) with CGI and common HTTP features
+- Download and install PHP Manager for IIS
+- Download and install the Rewrite Module
+- Download PHP 7.3.8
+- Download and install VC_redist.x86.exe
+- Download and install MySQL 5.5.62
+- Install osTicket v1.15.8
+- Download and Install HeidiSQL
+- Configured permissions and installed osTicket
 
 <h2>Installation Steps</h2>
 
+Step 1: Create a resource group in Azure
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/1f53cbee-c9d3-40d9-8229-d3f2a167dfd0)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2: Create a Windows 10 Pro Virtual Machine (VM)
+
+- Select the Resource group that was created
+- VM name: VM-osTciket
+- Select US East or US West region
+- For availability options, select 'No infrastructure redundancy required'
+- For security type select 'Standard'
+- Image: Windows 10 Pro
+- Size: 2 or 4 Virtual CPUs (vcpus)
+- Choose your usernamde and password
+- Check the box for Licensing
+- Click Review + Create
+  
 </p>
 <br />
 
