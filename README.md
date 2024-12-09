@@ -53,13 +53,12 @@ Step 2: Create a Windows 10 Pro Virtual Machine (VM)
 - Check the box for Licensing
 - Click Review + Create
   
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/5b6126b2-dc43-4e4d-af80-605e96b41655)
+![image](https://github.com/user-attachments/assets/efbcccbd-609c-4cda-b022-9c6b627d42f7)
+![image](https://github.com/user-attachments/assets/f39c69a2-9e55-4df3-8074-ea2b4bf4b4d8)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+
+<
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
