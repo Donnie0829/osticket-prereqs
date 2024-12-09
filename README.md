@@ -58,15 +58,19 @@ Step 2: Create a Windows 10 Pro Virtual Machine (VM)
 ![image](https://github.com/user-attachments/assets/f39c69a2-9e55-4df3-8074-ea2b4bf4b4d8)
 
 
-<
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+Step 3: Open Remote Desktop Connection App
+
+-Copy and paste the Public IP Address into the Remote Desktop Connection (Wait until the VM finished deploying)
+-Click 'Connect'
+-Log in with the credentials created during the virtual machine configuration process.
+-Select 'Yes' to connect to your VM
+
+![image](https://github.com/user-attachments/assets/33151caa-a7bc-4e1e-a39c-eabffc2aa50c)
+
+![image](https://github.com/user-attachments/assets/54367482-5d1e-4e72-b545-b28426df0109)
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
