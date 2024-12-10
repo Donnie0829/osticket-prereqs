@@ -183,7 +183,62 @@ Step 10; Rename ost-sampleconfig.php
 Step 11: Continue Setting up OsTicket (click 'Continue' at the bottom
 
 - Help Desk Name: Donnie's Help Desk
-- Email: donniehall0412@gmail.com
+- Email: donniehall0412@gmail.com (Receives email from customers)
+- Name; Donnie
+- Last name: Hall
+- Email address: me@donniehall.tech (can be any email address)
+- Username: adminuser
+- Password: Choose your own
+- Download and install HeidiSQL
+- Open HeidiSQL will
+- Click 'New' at the bottom left,
+- Enetr root password that was created when we downloaded MySQL
+- Connect to the session
+- Create a database called 'osTicket' in Heidi SQL -> right click where it says 'Unnamed' in bold -> Create New -> Datbase -> type 'osTicket' in the Name field
+- Continue on to the Database Settings on the osTicket webpage:
+   - MySQL Database: enter 'osTicket' (databse we just created in HeidiSQL)
+   - MySQL Username: root
+   - MySQL Password: Password that was created when we downloaded MySQL
+   - Click 'Install Now!'
+ 
+  ![image](https://github.com/user-attachments/assets/6d40caab-3f9f-4abf-8783-f04073c13c76)
+
+  ![image](https://github.com/user-attachments/assets/6112a3f8-29d2-4fb2-9f98-32b463209bed)
+
+  ![image](https://github.com/user-attachments/assets/65c62e6a-2eb8-40a5-b434-9d3660ac21ef)
+
+  ![image](https://github.com/user-attachments/assets/60712b61-c55f-4623-8f06-bb553ab549e6)
+
+
+
+  Congratulations, osTicket has been installed successfully!
+
+
+  ![image](https://github.com/user-attachments/assets/95ddba7b-08aa-4757-a7c9-7263f8f08920)
+
+
+
+
+  Step 12; Clean up
+
+  - Go to Files Explorer
+  - Go to Windows (C) -> inetpub -> wwwroot -> osTicket -> setup (right click and delete)
+  - Set Permissions to 'Read' only: Go to Windows (C) -> inetpub -> wwwroot -> osTicket -> include -> os-config.php -> right click and go to Properties -> Security -> Advanced -> Double click 'Everyone' -> deselect 'Full control' , 'Modify' , and 'Write' -> and Apply
+ 
+
+
+
+Step 13: Test your osTicket log in credentials
+
+- Click on http://localhost/osTicket/scp under 'Your Staff Control Panel'
+- Enetr log in credentials
+- Congrats, you have successfully logged into osTicket
+
+
+
+
+
+
 
 
 
